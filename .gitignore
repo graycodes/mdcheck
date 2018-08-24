@@ -1,0 +1,4 @@
+mdcheck.hi
+mdcheck.o
+.cabal-sandbox
+dist
